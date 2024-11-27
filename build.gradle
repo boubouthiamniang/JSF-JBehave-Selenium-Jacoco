@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'war' // Use war plugin for a web application
 }
 
 group = 'org.poc'
@@ -10,8 +11,13 @@ repositories {
 }
 
 dependencies {
-    testImplementation platform('org.junit:junit-bom:5.10.0')
-    testImplementation 'org.junit.jupiter:junit-jupiter'
+    // JSF Implementation
+    compileOnly 'jakarta.platform:jakarta.jakartaee-web-api:11.0.0-M4'
+
+    compileOnly 'javax.servlet:javax.servlet-api:4.0.1'
+
+    // Testing libraries
+    testImplementation 'junit:junit:4.13.2'
 }
 
 test {
