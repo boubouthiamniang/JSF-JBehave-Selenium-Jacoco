@@ -16,6 +16,10 @@ dependencies {
 
     compileOnly 'javax.servlet:javax.servlet-api:4.0.1'
 
+    //To recognize Named annotation
+    implementation 'jakarta.enterprise:jakarta.enterprise.cdi-api:4.1.0'
+
+
     // Testing libraries
     testImplementation 'junit:junit:4.13.2'
 }
