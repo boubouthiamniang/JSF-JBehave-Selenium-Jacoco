@@ -1,0 +1,1015 @@
+29-Nov-2024 00:03:15.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 00:03:15.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 00:03:15.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 00:03:15.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 00:03:15.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 00:03:15.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 00:03:15.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 00:03:15.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 00:03:15.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 00:03:15.008 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:03:15.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:03:15.025 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 00:03:15.025 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 00:03:15.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=51846:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 00:03:15.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 00:03:15.062 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 00:03:15.068 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 00:03:15.262 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:03:15.281 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [466] millisecondes
+29-Nov-2024 00:03:15.326 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 00:03:15.326 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 00:03:15.335 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 00:03:15.675 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [335] ms
+29-Nov-2024 00:03:15.682 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:03:15.735 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [454] millisecondes
+29-Nov-2024 00:16:26.581 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 00:16:26.581 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 00:16:26.627 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 00:16:56.659 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 00:16:56.659 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 00:16:56.696 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 00:19:24.059 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 00:19:24.348 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 00:19:24.358 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:19:24.363 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:19:29.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 00:19:29.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 00:19:29.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 00:19:29.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 00:19:29.402 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 00:19:29.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 00:19:29.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 00:19:29.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 00:19:29.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 00:19:29.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:19:29.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=52358:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 00:19:29.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 00:19:29.421 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 00:19:29.428 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 00:19:29.622 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:19:29.639 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [463] millisecondes
+29-Nov-2024 00:19:29.689 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 00:19:29.689 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 00:19:29.701 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 00:19:30.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [371] ms
+29-Nov-2024 00:19:30.081 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:19:30.131 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [492] millisecondes
+29-Nov-2024 00:21:17.514 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 00:21:17.895 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 00:21:17.907 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:21:17.930 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:35:31.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 00:35:31.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 00:35:31.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 00:35:31.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 00:35:31.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 00:35:31.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 00:35:31.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 00:35:31.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 00:35:31.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 00:35:31.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:35:31.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 00:35:31.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=52761:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 00:35:31.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 00:35:31.136 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 00:35:31.141 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 00:35:31.365 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:35:31.385 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [456] millisecondes
+29-Nov-2024 00:35:31.447 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 00:35:31.447 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 00:35:31.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 00:35:31.793 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [331] ms
+29-Nov-2024 00:35:31.801 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:35:31.845 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [459] millisecondes
+29-Nov-2024 00:39:34.329 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 00:39:34.594 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 00:39:34.608 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:39:34.622 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:44:45.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 00:44:45.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 00:44:45.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:44:45.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:44:45.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 00:44:45.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 00:44:45.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 00:44:45.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 00:44:45.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 00:44:45.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:44:45.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:44:45.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 00:44:45.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 00:44:45.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 00:44:45.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=52872:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 00:44:45.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 00:44:45.212 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 00:44:45.218 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 00:44:45.418 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:44:45.433 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [444] millisecondes
+29-Nov-2024 00:44:45.488 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 00:44:45.488 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 00:44:45.499 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 00:44:45.877 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [376] ms
+29-Nov-2024 00:44:45.882 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:44:45.927 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [493] millisecondes
+29-Nov-2024 00:48:15.479 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 00:48:15.807 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 00:48:15.822 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:48:15.834 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:48:17.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 00:48:17.201 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:48:17.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:48:17.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 00:48:17.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 00:48:17.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 00:48:17.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=52970:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 00:48:17.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 00:48:17.216 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 00:48:17.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 00:48:17.428 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:48:17.450 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [443] millisecondes
+29-Nov-2024 00:48:17.506 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 00:48:17.507 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 00:48:17.518 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 00:48:17.913 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [392] ms
+29-Nov-2024 00:48:17.918 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:48:17.963 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [513] millisecondes
+29-Nov-2024 00:52:30.480 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 00:52:30.766 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 00:52:30.779 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:52:30.798 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:54:08.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 00:54:08.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 00:54:08.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:54:08.192 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:54:08.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 00:54:08.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 00:54:08.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 00:54:08.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 00:54:08.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 00:54:08.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 00:54:08.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 00:54:08.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 00:54:08.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 00:54:08.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 00:54:08.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=53025:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 00:54:08.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 00:54:08.206 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 00:54:08.211 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 00:54:08.444 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:54:08.464 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [458] millisecondes
+29-Nov-2024 00:54:08.521 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 00:54:08.522 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 00:54:08.536 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 00:54:08.943 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [405] ms
+29-Nov-2024 00:54:08.949 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 00:54:08.998 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [534] millisecondes
+29-Nov-2024 01:01:29.409 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:01:29.410 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:01:29.485 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:01:39.488 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:01:39.488 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:01:39.530 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:02:09.573 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:02:09.573 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:02:09.617 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:02:29.638 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:02:29.639 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:02:29.715 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:03:09.748 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:03:09.748 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:03:09.799 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:03:49.846 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:03:49.846 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:03:49.884 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:04:39.936 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:04:39.936 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:04:39.987 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:05:10.007 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:05:10.007 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:05:10.024 SEVERE [Catalina-utility-1] org.apache.tomcat.util.digester.Digester.fatalError Erreur fatale lors de l'analyse à la ligne [5] colonne [25]
+	org.xml.sax.SAXParseException; systemId: file:/C:/Users/boubouthiam.niang/workspace/bl/JSF-JBehave-Selenium-Jacoco/src/main/webapp/WEB-INF/web.xml; lineNumber: 5; columnNumber: 25; Attribute name "web-app_5_0.xsd" associated with an element type "web-app" must be followed by the ' = ' character.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1505)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$ContentDriver.scanRootElementHook(XMLDocumentScannerImpl.java:1292)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3079)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:836)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1529)
+		at org.apache.tomcat.util.descriptor.web.WebXmlParser.parseWebXml(WebXmlParser.java:119)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1236)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:961)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:290)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4311)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3198)
+		at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1424)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1399)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1629)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:263)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:940)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1139)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1143)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1121)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+29-Nov-2024 01:05:10.029 SEVERE [Catalina-utility-1] org.apache.tomcat.util.descriptor.web.WebXmlParser.parseWebXml Erreur de traitement du web.xml de l'application à [file:/C:/Users/boubouthiam.niang/workspace/bl/JSF-JBehave-Selenium-Jacoco/src/main/webapp/WEB-INF/web.xml]
+	org.xml.sax.SAXParseException; systemId: file:/C:/Users/boubouthiam.niang/workspace/bl/JSF-JBehave-Selenium-Jacoco/src/main/webapp/WEB-INF/web.xml; lineNumber: 5; columnNumber: 25; Attribute name "web-app_5_0.xsd" associated with an element type "web-app" must be followed by the ' = ' character.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1505)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$ContentDriver.scanRootElementHook(XMLDocumentScannerImpl.java:1292)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3079)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:836)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1529)
+		at org.apache.tomcat.util.descriptor.web.WebXmlParser.parseWebXml(WebXmlParser.java:119)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1236)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:961)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:290)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4311)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3198)
+		at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1424)
+		at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1399)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1629)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:263)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:940)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1139)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1143)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1121)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+29-Nov-2024 01:05:10.031 SEVERE [Catalina-utility-1] org.apache.tomcat.util.descriptor.web.WebXmlParser.parseWebXml S'est produit à la ligne [5] colonne [25]
+29-Nov-2024 01:05:10.035 SEVERE [Catalina-utility-1] org.apache.catalina.startup.ContextConfig.configureStart Cette application est marquée comme non disponible suite aux erreurs précédentes
+29-Nov-2024 01:05:10.035 SEVERE [Catalina-utility-1] org.apache.catalina.core.StandardContext.startInternal Un ou plusieurs composants ont marqué ce contexte comme n'étant pas correctement configuré
+29-Nov-2024 01:05:10.036 SEVERE [Catalina-utility-1] org.apache.catalina.core.StandardContext.startInternal Erreur de démarrage du contexte [/JSF-JBehave-Selenium-Jacoco] suite aux erreurs précédentes
+29-Nov-2024 01:05:10.037 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:05:40.060 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:05:55.072 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 01:05:55.389 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 01:05:55.392 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:05:55.395 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:05:56.782 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:05:56.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:05:56.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 01:05:56.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 01:05:56.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=53248:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 01:05:56.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 01:05:56.799 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 01:05:56.806 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 01:05:56.997 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:05:57.016 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [413] millisecondes
+29-Nov-2024 01:05:57.093 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 01:05:57.093 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 01:05:57.109 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 01:05:57.533 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [421] ms
+29-Nov-2024 01:05:57.540 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:05:57.586 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [569] millisecondes
+29-Nov-2024 01:45:30.139 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:45:30.139 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:45:30.200 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:47:00.423 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 01:47:00.705 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 01:47:00.709 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:47:00.713 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:47:01.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 01:47:01.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 01:47:01.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 01:47:01.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 01:47:01.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 01:47:01.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 01:47:01.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 01:47:01.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 01:47:01.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 01:47:01.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:47:01.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:47:01.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 01:47:01.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 01:47:01.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 01:47:01.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=54159:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 01:47:01.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 01:47:01.986 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 01:47:01.991 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 01:47:02.205 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:47:02.228 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [421] millisecondes
+29-Nov-2024 01:47:02.291 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 01:47:02.291 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 01:47:02.303 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 01:47:02.684 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [380] ms
+29-Nov-2024 01:47:02.689 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:47:02.733 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [504] millisecondes
+29-Nov-2024 01:48:22.780 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/JSF-JBehave-Selenium-Jacoco]
+29-Nov-2024 01:48:22.781 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/JSF-JBehave-Selenium-Jacoco] a démarré
+29-Nov-2024 01:48:22.827 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+29-Nov-2024 01:50:09.311 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 01:50:10.316 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 01:50:10.332 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:50:10.348 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:50:12.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 01:50:12.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 01:50:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:50:12.024 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:50:12.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 01:50:12.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 01:50:12.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 01:50:12.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 01:50:12.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 01:50:12.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:50:12.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:50:12.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 01:50:12.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 01:50:12.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 01:50:12.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=54200:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 01:50:12.038 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 01:50:12.041 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 01:50:12.046 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 01:50:12.239 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:50:12.255 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [427] millisecondes
+29-Nov-2024 01:50:12.322 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 01:50:12.322 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 01:50:12.336 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 01:50:12.706 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [365] ms
+29-Nov-2024 01:50:12.716 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:50:12.759 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [502] millisecondes
+29-Nov-2024 01:51:10.144 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 01:51:10.566 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 01:51:10.573 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:51:10.576 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:51:12.041 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 01:51:12.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 01:51:12.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 01:51:12.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 01:51:12.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 01:51:12.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 01:51:12.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 01:51:12.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 01:51:12.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 01:51:12.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:51:12.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:51:12.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 01:51:12.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 01:51:12.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 01:51:12.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=54207:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 01:51:12.057 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 01:51:12.059 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 01:51:12.064 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 01:51:12.264 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:51:12.281 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [424] millisecondes
+29-Nov-2024 01:51:12.337 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 01:51:12.337 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 01:51:12.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 01:51:12.746 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [387] ms
+29-Nov-2024 01:51:12.754 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:51:12.805 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [524] millisecondes
+29-Nov-2024 01:54:47.153 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 01:54:47.446 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 01:54:47.452 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:54:47.456 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:54:48.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 01:54:48.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 01:54:48.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 01:54:48.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 01:54:48.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 01:54:48.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 01:54:48.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 01:54:48.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 01:54:48.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 01:54:48.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:54:48.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:54:48.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 01:54:48.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 01:54:48.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 01:54:48.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=54243:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 01:54:48.709 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 01:54:48.714 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 01:54:48.720 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 01:54:48.936 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:54:48.956 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [443] millisecondes
+29-Nov-2024 01:54:49.015 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 01:54:49.015 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 01:54:49.027 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 01:54:49.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [388] ms
+29-Nov-2024 01:54:49.422 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 01:54:49.466 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [508] millisecondes
+29-Nov-2024 14:41:14.377 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 14:41:14.669 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 14:41:14.700 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:41:14.707 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:41:21.544 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 14:41:21.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 14:41:21.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 14:41:21.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 14:41:21.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 14:41:21.549 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 14:41:21.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 14:41:21.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 14:41:21.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 14:41:21.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 14:41:21.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 14:41:21.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 14:41:21.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 14:41:21.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 14:41:21.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 14:41:21.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 14:41:21.561 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 14:41:21.561 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 14:41:21.561 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 14:41:21.561 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 14:41:21.561 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 14:41:21.561 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=56612:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 14:41:21.561 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 14:41:21.564 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 14:41:21.569 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 14:41:21.743 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:41:21.759 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [390] millisecondes
+29-Nov-2024 14:41:21.820 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 14:41:21.820 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 14:41:21.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 14:41:22.174 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [338] ms
+29-Nov-2024 14:41:22.180 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:41:22.226 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [466] millisecondes
+29-Nov-2024 14:56:19.427 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 14:56:19.726 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 14:56:19.733 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:56:19.737 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:56:21.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 14:56:21.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 14:56:21.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 14:56:21.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 14:56:21.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 14:56:21.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 14:56:21.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 14:56:21.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 14:56:21.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 14:56:21.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 14:56:21.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 14:56:21.681 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 14:56:21.681 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 14:56:21.681 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=56894:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 14:56:21.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 14:56:21.685 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 14:56:21.689 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 14:56:21.984 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:56:22.001 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [495] millisecondes
+29-Nov-2024 14:56:22.047 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 14:56:22.047 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 14:56:22.060 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 14:56:22.432 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [368] ms
+29-Nov-2024 14:56:22.438 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:56:22.485 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [483] millisecondes
+29-Nov-2024 14:57:39.697 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 14:57:39.989 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 14:57:39.995 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:57:39.998 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:57:41.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 14:57:41.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 14:57:41.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 14:57:41.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 14:57:41.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 14:57:41.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 14:57:41.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 14:57:41.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 14:57:41.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 14:57:41.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 14:57:41.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 14:57:41.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 14:57:41.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=56912:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 14:57:41.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 14:57:41.229 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 14:57:41.233 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 14:57:41.608 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:57:41.627 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [597] millisecondes
+29-Nov-2024 14:57:41.671 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 14:57:41.671 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 14:57:41.685 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 14:57:42.051 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [364] ms
+29-Nov-2024 14:57:42.055 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 14:57:42.098 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [471] millisecondes
+29-Nov-2024 15:17:55.349 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 15:17:55.668 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 15:17:55.676 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:17:55.679 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:17:57.986 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 15:17:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 15:17:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 15:17:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 15:17:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 15:17:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 15:17:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 15:17:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 15:17:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 15:17:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:17:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 15:17:57.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 15:17:57.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 15:17:57.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=57439:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 15:17:57.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 15:17:58.002 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 15:17:58.007 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 15:17:58.182 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:17:58.198 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [407] millisecondes
+29-Nov-2024 15:17:58.332 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 15:17:58.332 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 15:17:58.347 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 15:17:58.718 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [368] ms
+29-Nov-2024 15:17:58.723 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:17:58.768 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [570] millisecondes
+29-Nov-2024 15:19:29.390 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 15:19:29.739 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 15:19:29.747 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:19:29.750 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:19:31.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 15:19:31.288 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 15:19:31.288 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 15:19:31.288 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 15:19:31.288 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 15:19:31.288 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 15:19:31.288 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 15:19:31.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 15:19:31.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 15:19:31.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:19:31.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:19:31.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 15:19:31.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 15:19:31.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 15:19:31.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 15:19:31.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 15:19:31.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:19:31.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:19:31.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 15:19:31.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 15:19:31.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 15:19:31.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=57477:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 15:19:31.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 15:19:31.300 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 15:19:31.305 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 15:19:31.584 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:19:31.599 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [511] millisecondes
+29-Nov-2024 15:19:31.644 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 15:19:31.644 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 15:19:31.656 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 15:19:31.995 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [339] ms
+29-Nov-2024 15:19:32.000 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:19:32.044 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [446] millisecondes
+29-Nov-2024 15:24:33.806 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 15:24:34.186 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 15:24:34.194 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:24:34.198 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:24:35.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 15:24:35.464 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 15:24:35.464 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 15:24:35.464 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 15:24:35.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 15:24:35.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 15:24:35.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 15:24:35.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 15:24:35.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 15:24:35.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:24:35.465 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:24:35.473 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 15:24:35.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 15:24:35.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 15:24:35.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=57547:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 15:24:35.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 15:24:35.478 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 15:24:35.483 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 15:24:35.766 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:24:35.785 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [498] millisecondes
+29-Nov-2024 15:24:35.829 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 15:24:35.829 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 15:24:35.842 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 15:24:36.228 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [384] ms
+29-Nov-2024 15:24:36.235 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:24:36.282 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [496] millisecondes
+29-Nov-2024 15:27:21.972 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 15:27:22.252 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 15:27:22.259 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:27:22.261 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:27:23.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 15:27:23.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:27:23.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 15:27:23.550 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 15:27:23.551 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=57595:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 15:27:23.551 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 15:27:23.554 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 15:27:23.560 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 15:27:23.826 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:27:23.843 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [490] millisecondes
+29-Nov-2024 15:27:23.889 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 15:27:23.889 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 15:27:23.899 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 15:27:24.271 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [370] ms
+29-Nov-2024 15:27:24.276 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:27:24.326 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [482] millisecondes
+29-Nov-2024 15:32:32.659 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 15:32:33.643 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 15:32:33.664 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:32:33.691 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:32:36.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 15:32:36.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 15:32:36.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:32:36.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:32:36.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 15:32:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 15:32:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 15:32:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 15:32:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 15:32:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:32:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:32:36.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 15:32:36.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 15:32:36.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 15:32:36.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=57720:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 15:32:36.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 15:32:36.244 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 15:32:36.249 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 15:32:36.426 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:32:36.442 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [504] millisecondes
+29-Nov-2024 15:32:36.493 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 15:32:36.493 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 15:32:36.503 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 15:32:36.871 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [365] ms
+29-Nov-2024 15:32:36.876 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:32:36.930 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [488] millisecondes
+29-Nov-2024 15:33:29.741 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 15:33:30.286 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 15:33:30.295 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:33:30.299 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:33:31.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 15:33:31.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:33:31.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:33:31.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 15:33:31.685 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 15:33:31.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=57757:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 15:33:31.687 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 15:33:31.706 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 15:33:31.744 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 15:33:31.995 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:33:32.010 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [519] millisecondes
+29-Nov-2024 15:33:32.055 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 15:33:32.055 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 15:33:32.067 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 15:33:32.439 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [370] ms
+29-Nov-2024 15:33:32.443 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 15:33:32.492 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [481] millisecondes
+29-Nov-2024 16:25:28.921 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 16:25:29.215 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 16:25:29.232 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 16:25:29.245 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 16:25:30.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 16:25:30.753 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 16:25:30.753 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 16:25:30.753 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 16:25:30.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 16:25:30.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 16:25:30.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 16:25:30.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 16:25:30.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 16:25:30.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 16:25:30.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 16:25:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 16:25:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 16:25:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 16:25:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 16:25:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 16:25:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 16:25:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 16:25:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 16:25:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 16:25:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 16:25:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=59151:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 16:25:30.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 16:25:30.772 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 16:25:30.779 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 16:25:31.260 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 16:25:31.275 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [762] millisecondes
+29-Nov-2024 16:25:31.324 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 16:25:31.324 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 16:25:31.332 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 16:25:31.686 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [352] ms
+29-Nov-2024 16:25:31.695 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 16:25:31.748 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [472] millisecondes
+29-Nov-2024 17:16:16.738 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 17:16:17.047 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 17:16:17.077 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:16:17.088 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:16:18.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 17:16:18.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 17:16:18.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 17:16:18.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 17:16:18.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 17:16:18.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 17:16:18.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 17:16:18.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 17:16:18.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 17:16:18.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 17:16:18.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 17:16:18.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 17:16:18.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 17:16:18.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 17:16:18.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=63143:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 17:16:18.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 17:16:18.508 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 17:16:18.516 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 17:16:18.799 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:16:18.815 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [564] millisecondes
+29-Nov-2024 17:16:18.864 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 17:16:18.864 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 17:16:18.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 17:16:19.215 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [338] ms
+29-Nov-2024 17:16:19.226 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:16:19.284 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [468] millisecondes
+29-Nov-2024 17:18:29.154 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 17:18:29.543 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 17:18:29.552 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:29.555 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:32.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 17:18:32.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 17:18:32.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 17:18:32.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 17:18:32.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 17:18:32.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 17:18:32.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 17:18:32.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 17:18:32.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 17:18:32.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 17:18:32.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 17:18:32.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 17:18:32.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 17:18:32.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 17:18:32.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 17:18:32.168 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 17:18:32.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 17:18:32.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 17:18:32.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 17:18:32.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 17:18:32.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 17:18:32.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=63181:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 17:18:32.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 17:18:32.173 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 17:18:32.179 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 17:18:32.468 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:32.485 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [500] millisecondes
+29-Nov-2024 17:18:32.527 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 17:18:32.528 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 17:18:32.540 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 17:18:32.875 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [333] ms
+29-Nov-2024 17:18:32.886 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:32.935 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [449] millisecondes
+29-Nov-2024 17:18:54.390 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 17:18:54.903 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+29-Nov-2024 17:18:54.913 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:54.916 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:56.394 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/11.0.1
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Nov 6 2024 19:08:24 UTC
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               11.0.1.0
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17.0.11
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+29-Nov-2024 17:18:56.400 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 17:18:56.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 17:18:56.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Program Files\apache-tomcat-11.0.1
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\temp
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\logging.properties
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\lib\idea_rt.jar=63198:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.4\bin
+29-Nov-2024 17:18:56.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dfile.encoding=UTF-8
+29-Nov-2024 17:18:56.415 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [2.0.8] en utilisant APR version [1.7.4]
+29-Nov-2024 17:18:56.433 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 3.0.14 4 Jun 2024]
+29-Nov-2024 17:18:56.712 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:56.727 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [524] millisecondes
+29-Nov-2024 17:18:56.769 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+29-Nov-2024 17:18:56.769 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/11.0.1]
+29-Nov-2024 17:18:56.779 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml]
+29-Nov-2024 17:18:57.171 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\conf\Catalina\localhost\JSF-JBehave-Selenium-Jacoco.xml] a pris [390] ms
+29-Nov-2024 17:18:57.181 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+29-Nov-2024 17:18:57.233 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [505] millisecondes
+29-Nov-2024 18:10:19.209 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+29-Nov-2024 18:10:19.546 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
