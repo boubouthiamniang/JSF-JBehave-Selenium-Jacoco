@@ -1,7 +1,0 @@
-127.0.0.1 - - [03/Dec/2024:10:49:35 +0100] "GET /JSF-JBehave-Selenium-Jacoco HTTP/1.1" 404 682
-127.0.0.1 - - [03/Dec/2024:10:49:52 +0100] "GET /JSF-JBehave-Selenium-Jacoco/login.xhtml HTTP/1.1" 404 682
-127.0.0.1 - - [03/Dec/2024:10:49:52 +0100] "GET /favicon.ico HTTP/1.1" 404 682
-127.0.0.1 - - [03/Dec/2024:10:50:14 +0100] "GET /JSF-JBehave-Selenium-Jacoco HTTP/1.1" 404 682
-127.0.0.1 - - [03/Dec/2024:10:50:14 +0100] "GET /favicon.ico HTTP/1.1" 404 682
-127.0.0.1 - - [03/Dec/2024:10:50:21 +0100] "GET /JSF-JBehave-Selenium-Jacoco/login HTTP/1.1" 404 682
-127.0.0.1 - - [03/Dec/2024:10:50:21 +0100] "GET /favicon.ico HTTP/1.1" 404 682
