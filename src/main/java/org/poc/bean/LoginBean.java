@@ -6,12 +6,16 @@ import jakarta.faces.context.FacesContext;
 import jakarta.inject.Named;
 
 import java.io.Serializable;
+import java.util.HashMap;
+import java.util.Map;
 
 @Named
 @SessionScoped
 public class LoginBean implements Serializable {
     private String username;
     private String password;
+
+    private static final Map<String, String> users = new HashMap<>();
 
     public String getUsername() {
         return username;
@@ -42,5 +46,17 @@ public class LoginBean implements Serializable {
         // Invalidate the session and return to login page
         FacesContext.getCurrentInstance().getExternalContext().invalidateSession();
         return "login.xhtml?faces-redirect=true";
+    }
+
+    public String registration() {
+        if (users.containsKey(username)) {
+            // Username already exists
+            FacesContext.getCurrentInstance().addMessage(null,
+                    new jakarta.faces.application.FacesMessage("Username already exists"));
+            return null;
+        } else {
+            users.put(username, password);
+            return "login.xhtml?faces-redirect=true"; // Redirect to login page
+        }
     }
 }

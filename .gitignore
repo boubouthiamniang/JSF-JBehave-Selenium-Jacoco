@@ -38,7 +38,11 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-## Tomcat
+### Tomcat ###
 .smarttomcat/
  conf/
  logs/
+
+### JaCoCo ###
+htmlReport/
+xmlReport/
