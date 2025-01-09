@@ -6,7 +6,9 @@ import jakarta.faces.context.FacesContext;
 import jakarta.inject.Named;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 @Named
@@ -58,5 +60,9 @@ public class LoginBean implements Serializable {
             users.put(username, password);
             return "login.xhtml?faces-redirect=true"; // Redirect to login page
         }
+    }
+
+    public List<String> getAllUsers() {
+        return new ArrayList<>(users.keySet());
     }
 }
