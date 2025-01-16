@@ -7,27 +7,27 @@
 </h:head>
 <h:body>
     <h1>Welcome, #{loginBean.username}!</h1>
+
+    <h:form>
+        <h:commandButton id="logoutButton" value="Logout" action="#{loginBean.logout}" />
+    </h:form>
+
     <h:form>
         <h:dataTable value="#{loginBean.allUsers}" var="user" styleClass="user-table">
             <h:column>
                 <f:facet name="header">Select</f:facet>
-                <h:selectBooleanCheckbox value="#{loginBean.selectedUsers[user]}" />
+                <h:selectOneRadio value="#{loginBean.selectedUser}" >
+                    <f:selectItem itemValue="#{user}" itemLabel="#{user}" />
+                </h:selectOneRadio>
             </h:column>
-
             <h:column>
                 <f:facet name="header">Username</f:facet>
                 #{user}
             </h:column>
-
-            <h:column>
-                <f:facet name="header">Actions</f:facet>
-                <h:commandButton value="Update" action="#{loginBean.updateUser(user)}" />
-                <h:commandButton value="Remove" action="#{loginBean.removeUser(user)}" />
-            </h:column>
         </h:dataTable>
 
-        <h:commandButton value="Update Selected" action="#{loginBean.updateSelectedUsers()}" />
-        <h:commandButton value="Remove Selected" action="#{loginBean.removeSelectedUsers()}" />
+        <h:commandButton id="goToUpdatePageButton" value="Update Selected User" action="#{loginBean.goToUpdatePage}" />
+        <h:commandButton id="deleteUserButton" value="Delete Selected User" action="#{loginBean.deleteUser}" />
     </h:form>
 </h:body>
 </html>
