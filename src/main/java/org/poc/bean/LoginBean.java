@@ -17,7 +17,18 @@ public class LoginBean implements Serializable {
     private String username;
     private String password;
 
+    private String newUsername;  // New username for update
+    private String newPassword;
+
     private static final Map<String, String> users = new HashMap<>();
+    private String selectedUser=null; // Store the selected user for update
+
+    static {
+        users.put("admin", "password");
+        users.put("bob", "zik");
+        users.put("tony", "1245");
+        users.put("root", "super");
+    }
 
     public String getUsername() {
         return username;
@@ -33,6 +44,30 @@ public class LoginBean implements Serializable {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public String getNewUsername() {
+        return newUsername;
+    }
+
+    public void setNewUsername(String newUsername) {
+        this.newUsername = newUsername;
+    }
+
+    public String getNewPassword() {
+        return newPassword;
+    }
+
+    public void setNewPassword(String newPassword) {
+        this.newPassword = newPassword;
+    }
+
+    public String getSelectedUser() {
+        return selectedUser;
+    }
+
+    public void setSelectedUser(String selectedUser) {
+        this.selectedUser = selectedUser;
     }
 
     public String login() {
@@ -64,5 +99,48 @@ public class LoginBean implements Serializable {
 
     public List<String> getAllUsers() {
         return new ArrayList<>(users.keySet());
+    }
+
+    public String goToUpdatePage() {
+        if (selectedUser == null || selectedUser.isEmpty()) {
+            FacesContext.getCurrentInstance().addMessage(null,
+                    new jakarta.faces.application.FacesMessage("Please select a user to update."));
+            //return null;
+            //TODO - Fix selectedUser empty and remove this to keep return null
+            return "update-user.xhtml?faces-redirect=true";
+        }
+        //TODO - Unreachable before Fixing selectedUser empty problem
+        return "update-user.xhtml?faces-redirect=true";
+    }
+
+    public String updateUser() {
+        //TODO - Fix selectedUser empty and remove assignation
+        selectedUser="tony";
+        if (newUsername == null || newPassword == null || newUsername.isEmpty() || newPassword.isEmpty()) {
+            FacesContext.getCurrentInstance().addMessage(null,
+                    new jakarta.faces.application.FacesMessage("Both username and password are required."));
+            return null;
+        }
+
+        if (users.containsKey(selectedUser)) {
+            users.remove(selectedUser);
+            users.put(newUsername, newPassword);
+        }
+
+        return "welcome.xhtml?faces-redirect=true";
+    }
+
+    public String deleteUser() {
+        if (selectedUser == null || selectedUser.isEmpty()) {
+            FacesContext.getCurrentInstance().addMessage(null,
+                    new jakarta.faces.application.FacesMessage("Please select a user to update."));
+
+            //return null;
+            //TODO - Fix selectedUser empty and remove this to keep return null
+            users.remove("tony");
+            return "welcome.xhtml?faces-redirect=true";
+        }
+        //TODO - Unreachable before Fixing selectedUser empty problem
+        return "welcome.xhtml?faces-redirect=true";
     }
 }
