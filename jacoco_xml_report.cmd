@@ -1,5 +1,5 @@
 @echo off
-set "reportDir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\xmlReport"
+set "reportDir=C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\xmlReport\LoginStory"
 
 
 :: Check if the xmlReport directory exists, and create it if not
@@ -8,4 +8,4 @@ if not exist "%reportDir%" (
 )
 
 :: Run the Jacoco command
-java -jar "C:\Users\boubouthiam.niang\dev-libs\jacoco\jacococli.jar" report "C:\Users\boubouthiam.niang\dev-libs\jacoco\output\jacoco.exec" --classfiles "C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\build\classes" --sourcefiles "C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\src\main\java" --xml "%reportDir%\jacoco-report.xml"
+java -jar "C:\Users\boubouthiam.niang\dev-libs\jacoco\jacococli.jar" report "C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\build\jacoco\jacoco.exec" --classfiles "C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\build\classes" --sourcefiles "C:\Users\boubouthiam.niang\workspace\bl\JSF-JBehave-Selenium-Jacoco\src\main\java" --xml "%reportDir%\jacoco-report.xml"
